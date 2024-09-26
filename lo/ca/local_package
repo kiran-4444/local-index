@@ -14,3 +14,4 @@
 {"name":"local_package","vers":"0.1.13","deps":[],"cksum":"d329d5b3007924d122a0113ee896990665ac77b1f59a3cfcab6527027ad9319a","features":{},"yanked":false}
 {"name":"local_package","vers":"0.1.14","deps":[],"cksum":"7e517e5d6960c7bf2bfcd44cfbd249f5f19e495c5a302fd3c7e66eea89c1c97d","features":{},"yanked":false}
 {"name":"local_package","vers":"0.1.15","deps":[],"cksum":"d77a092d5acf878c88a2a7453f2dba1b7dda24e81aa3e607a19c862c43702178","features":{},"yanked":false}
+{"name":"local_package","vers":"0.1.16","deps":[],"cksum":"03104a3b6da1fc085e3e7d60e1087261f8b0b9d4729ef68be82fec69d9b5fc24","features":{},"yanked":false}
