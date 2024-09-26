@@ -6,3 +6,4 @@
 {"name":"local_package","vers":"0.1.5","deps":[],"cksum":"d3482ed00efc1199bc67eb4491cf44368f835fcde259059326d7d07e12910838","features":{},"yanked":false}
 {"name":"local_package","vers":"0.1.6","deps":[],"cksum":"16293cb8ad5083247bdffdc10b549fea439eb25b36a5d99959cc2762434826bc","features":{},"yanked":false}
 {"name":"local_package","vers":"0.1.7","deps":[],"cksum":"d9d8bafcedf85cf9b19986b3a4651495205b91fb3a6792af0f513957be3ef790","features":{},"yanked":false}
+{"name":"local_package","vers":"0.1.8","deps":[],"cksum":"043da1b17962f52eb65daebcaa823032447e4c472b850ad1100aa5663b422f86","features":{},"yanked":false}
