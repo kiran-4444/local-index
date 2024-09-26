@@ -8,3 +8,4 @@
 {"name":"local_package","vers":"0.1.7","deps":[],"cksum":"d9d8bafcedf85cf9b19986b3a4651495205b91fb3a6792af0f513957be3ef790","features":{},"yanked":false}
 {"name":"local_package","vers":"0.1.8","deps":[],"cksum":"043da1b17962f52eb65daebcaa823032447e4c472b850ad1100aa5663b422f86","features":{},"yanked":false}
 {"name":"local_package","vers":"0.1.9","deps":[],"cksum":"76a24dd2386b368fa281bc95ee3fa69776b645787837cb7c45f4c80764acd6a4","features":{},"yanked":false}
+{"name":"local_package","vers":"0.1.10","deps":[],"cksum":"8db35db92a782ac3f8b207f4b71d26213fdfccd064dedf2a376c5d1268017787","features":{},"yanked":false}
